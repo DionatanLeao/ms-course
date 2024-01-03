@@ -1,4 +1,4 @@
-package com.devsuperior.hruser.entity;
+package com.devsuperior.hruser.entities;
 
 import java.io.Serializable;
 import javax.persistence.Entity;
